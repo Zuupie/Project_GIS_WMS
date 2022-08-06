@@ -1,4 +1,4 @@
-## Seminar Projekt GIS
+## Seminarprojekt GIS
 
 Name: Geschichte im Spiel
 
