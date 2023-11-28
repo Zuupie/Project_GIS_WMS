@@ -16,8 +16,3 @@ Sie spielen einen Schüler welcher sich in einem Museum (Abteilung Nachkriegszei
 * Die meisten Spiele sind Singleplayer, bis auf eins
 * Funktioniert auf Windows & MacOS
 * Alles wurde mit C# in der Umgebung Unity entwickelt
-
-#### Hier geht es zu dem Projekt mit den Unity Daten:
--- https://www.dropbox.com/scl/fo/6zjxjiamc44bh562urjvg/h?dl=0&rlkey=77h663ncly8f1ikv7qsxbxxk5 --
-
-Viel Spaß beim Spielen und weiterentwickeln!!
